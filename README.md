@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Gentle Ramirez
-Pronouns: They/Them/Theirs
-Location: New York 
+Hi! My name is Gentle Ramirez //
+Pronouns: They/Them/Theirs//
+Location: New York //
 
 I'm a senior at New York University studying Africana Studies, Web Programming and Applciations, and Creative Writing with a concentration in Poetry. 
 linkedin.com/in/gentleramirez
