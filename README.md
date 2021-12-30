@@ -25,4 +25,3 @@ I am the most recent member of the Digital Interest Lab where I explore Public I
 
 I am skilled in HTML, CSS, Javascript, Python 3, PHP, G-Suite, Microsoft Suite, Retail, Raiser's Edge, Aeon, OOP, cybersecurity, and helpdesk support. Every day, I am looking for new ways to decolonize truthtelling using the technology that connects us as a resource.
 linkedin.com/in/gentleramirez
-![68044078](https://user-images.githubusercontent.com/68044078/147722546-50f03f9a-ac4a-4c79-b77f-b2d1b610a39b.jpg)
