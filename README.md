@@ -1,4 +1,4 @@
-### Hi there
+
 
 <!--
 **ramirezg-web/ramirezg-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Gentle Ramirez
+### Hi! My name is Gentle Ramirez
 
 I am a senior at NYU studying Africana Studies, Creative Writing, and Computer Science. I am most passionate about using my software engineering background to envision technology products that are transparent and empower Black communities. 
 
@@ -24,4 +24,4 @@ I am the most recent member of the Digital Interest Lab where I explore Public I
 
 
 I am skilled in HTML, CSS, Javascript, Python 3, PHP, G-Suite, Microsoft Suite, Retail, Raiser's Edge, Aeon, OOP, cybersecurity, and helpdesk support. Every day, I am looking for new ways to decolonize truthtelling using the technology that connects us as a resource.
-linkedin.com/in/gentleramirez
+- 📫 linkedin.com/in/gentleramirez
