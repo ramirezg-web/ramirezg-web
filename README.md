@@ -25,5 +25,5 @@ I am the most recent member of the Digital Interest Lab where I explore Public I
 
 I am skilled in HTML, CSS, Javascript, Python 3, PHP, G-Suite, Microsoft Suite, Raiser's Edge, Aeon, OOP, cybersecurity, and helpdesk support. Every day, I am looking for new ways to decolonize truthtelling using the technology that connects us as a resource.
 
-Fun Facts: I enjoy gymnastics :cartwheeling:, yoga, and world travel :earth_africa: I've studied abroad in three countries :india: 	:it: :ghana:
+Fun Facts: I enjoy gymnastics :cartwheeling:, yoga, and world travel :earth_africa: I've studied abroad in three countries :india: 	:it: :ghana: and touched down in 🇲🇦 🇦🇼 🇬🇹 🇧🇸 🇲🇽 
 - 📫 linkedin.com/in/gentleramirez
