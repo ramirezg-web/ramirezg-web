@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi :wave: My name is Gentle 
 
-I am a full-time Software Engineer and NYU graduate. I am most passionate about using my software engineering background to envision technology products that are transparent and empower communities. 
+I am a full-time Software Engineer, University of Pennslyvannia and NYU CS graduate. I am most passionate about using my software engineering background to envision technology products that are transparent and empower communities. 
 
 I am skilled in HTML, CSS, Javascript, Python 3, PHP, Java, React, SQL, R, XCode, iOS, Typescript, Node.js, and more. Every day, I look for new ways to decolonize truthtelling using the technology that connects us as a resource.
 
